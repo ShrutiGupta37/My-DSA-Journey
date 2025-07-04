@@ -6,7 +6,7 @@ Basic **searching algorithms** using the C programming language. Searching is a 
 
 ## 📖 Introduction
 
-Searching algorithms help you determine whether an element exists in a list or not, and if it does, return its index (position). This project includes two main types of search:
+Searching algorithms help you determine whether an element exists in a list or not, and if it does, return its index (position). This repo includes two main types of search:
 
 - **Linear Search**
 - **Binary Search** (Recursive)
