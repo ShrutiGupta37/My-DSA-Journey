@@ -16,6 +16,18 @@ Bubble Sort is a basic comparison-based sorting technique that works by repeated
 4. Repeat the process for all elements until the array is sorted.
 5. After every pass, the largest unsorted element "bubbles up" to its correct position.
 
+### Selection Sort
+Selection Sort is a comparison-based sorting algorithm that divides the array into a sorted and an unsorted region and repeatedly selects the **minimum** (or maximum) from the unsorted region to move it to the correct position.
+
+#### How it Works
+
+1. Start from index `i = 0`.
+2. Find the **minimum** element in the unsorted part of the array.
+3. Swap it with the element at position `i`.
+4. Repeat until the array is sorted.
+
+![image](https://github.com/user-attachments/assets/812d14b8-d94b-4adc-8db8-084d53212b06)
+
 ---
 
 ## 📌 List of Sorting Algorithms Implemented
