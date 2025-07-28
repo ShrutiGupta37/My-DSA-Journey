@@ -40,9 +40,8 @@ Selection Sort is a comparison-based sorting algorithm that divides the array in
 | Merge Sort       | O(n log n) / O(n log n) / O(n log n)      | O(n)   | ✅     | ❌       |
 | Quick Sort       | O(n log n) / O(n log n) / O(n²)           | O(log n) | ❌  | ✅       |
 | Heap Sort        | O(n log n) / O(n log n) / O(n log n)      | O(1)   | ❌     | ✅       |
-| Counting Sort    | O(n+k) / O(n+k) / O(n+k)                  | O(k)   | ✅     | ❌       |
 | Radix Sort       | O(nk) / O(nk) / O(nk)                     | O(n+k) | ✅     | ❌       |
-| Shell Sort       | O(n log n) / O(n^3/2) / O(n²)             | O(1)   | ❌     | ✅       |
+
 
 
 
