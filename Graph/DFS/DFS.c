@@ -2,9 +2,9 @@
 #include <stdbool.h>
 #define N 5
 
-# Graph: 0 -- 1 -- 2
-#        |    |
-#        3 -- 4
+// Graph: 0 -- 1 -- 2
+//        |    |
+//        3 -- 4
 
 
 int graph[N][N] = {
